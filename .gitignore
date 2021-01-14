@@ -8,4 +8,7 @@
 *.rar
 *.tar
 *.zip
-./input
+.ipynb_checkpoints/
+input/
+spectrograms/
+test_spectrograms/
