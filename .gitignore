@@ -1,4 +1,5 @@
 *.pyc
+*.csv
 
 *.7z
 *.dmg
@@ -12,3 +13,5 @@
 input/
 spectrograms/
 test_spectrograms/
+50epochs_several_cnn_layers__58.79% acc/
+input
