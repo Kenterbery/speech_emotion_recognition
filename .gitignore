@@ -10,6 +10,7 @@
 *.tar
 *.zip
 .ipynb_checkpoints/
+.idea/
 input/
 features/
 spectrograms/
